@@ -11,6 +11,18 @@ img{
     box-shadow: 0px 0px 11px 0.5px;
 
 }
+header{
+ display: flex;  
+ padding: 10px; 
+ background-color: black;
+ color: white;
+ justify-content: space-between;
+}
+ul li{
+    display: flex;
+    list-style-type: none;
+
+}
 footer{
     padding: 10px;
     text-align: center;
