@@ -18,6 +18,10 @@ header{
  color: white;
  justify-content: space-between;
 }
+ul{
+    display: flex;
+    gap:5px;
+}
 ul li{
     display: flex;
     list-style-type: none;
