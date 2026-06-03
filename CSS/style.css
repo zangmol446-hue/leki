@@ -5,6 +5,8 @@ h1{
 img{
     height: 300px;
     width: 300px;
-    margin: 50px auto;
     display: block;
+    margin: 25px auto;
+    border-radius: 100%;
+
 }
